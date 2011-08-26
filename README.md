@@ -2,6 +2,7 @@ LuceneUtils
 ===========
 
 [Apache Lucene](http://lucene.apache.org/java/docs/index.html) utilities.
+
 http://github.com/cpdomina/LuceneUtils
 
 Auto Commit/Optimize
