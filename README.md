@@ -2,6 +2,7 @@ LuceneUtils
 ===========
 
 [Apache Lucene](http://lucene.apache.org/java/docs/index.html) utilities.
+http://github.com/cpdomina/LuceneUtils
 
 Auto Commit/Optimize
 --------------------
@@ -100,3 +101,5 @@ Uses an internal real-time IndexReader and a cache of IDs to check the uniquenes
 		updateOtherDocuments();
 	}
 	
+	//Release internal resources
+	unique.close();
